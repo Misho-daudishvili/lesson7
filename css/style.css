@@ -1,0 +1,258 @@
+.container {
+    width: 1220px;
+    margin: 0 auto;
+}
+
+.header-container {
+    height: 65px;
+    margin-top: 53px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-box {
+    display: flex;
+    align-items: center;
+}
+
+.ul-class {
+    width: 601px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #37393F;
+}
+
+.button {
+    width: 184px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6B77E5;
+    color: white;
+    margin-left: 40px;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 600;
+}
+
+.sticky-header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: white;
+    z-index: 10;
+}
+
+.font-inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.font-cabin {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.li-color {
+    color: #37393F;
+}
+
+.box-parent {
+
+    width: 400px;
+    height: 400px;
+    background-color: #6B77E5;
+    position: relative;
+}
+
+.child-box {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.work-box {
+    margin-top: 136px;
+}
+
+.title {
+    text-align: center;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 500;
+    margin-bottom: 16px;
+    color: #37393F;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 40px;
+    line-height: 121%;
+    color: #37393F;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+.work-procces-box {
+    margin-top: 41px;
+    margin-bottom: 41px;
+    display: flex;
+    justify-content: space-between
+}
+
+.procces-box {
+    width: 386px;
+    background-color: #F4F4F4;
+}
+
+.consulting-box {
+    width: 300px;
+    margin: 58px 43px 0 43px;
+}
+
+.appointment {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    line-height: 127%;
+    font-size: 25px;
+    color: #37393F;
+    margin-bottom: 16px;
+}
+
+.text {
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 146%;
+}
+
+.framework-text {
+    color: #7D7D7D;
+    ;
+}
+
+.testimonials {
+    text-align: center;
+    font-weight: 600;
+    color: #6B77E5;
+    line-height: 100%;
+    font-size: 18px;
+    margin-top: 37px;
+}
+
+.circle-box {
+    width: 72px;
+    height: 72px;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calendar-box-color {
+    background-color: #40DDB6;
+}
+
+.puzzle-box-color {
+    background-color: #6B77E5;
+}
+
+.safe-box-color {
+    background-color: #40DDB6;
+}
+
+.img {
+    width: 100%;
+    position: relative;
+}
+
+.presentation-box {
+    position: absolute;
+    top: 143px;
+    left: 705px;
+    width: 511px;
+    height: 200px;
+}
+
+.video {
+    text-align: center;
+    margin-bottom: 16px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100%;
+    color: #37393F;
+}
+
+.administrate-color {
+    color: #37393F;
+    margin-top: 21px;
+}
+
+.circle-presentation-box {
+    width: 64.5px;
+    height: 64.5px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 41px;
+    left: 223.25px;
+    background-color: #6B77E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-box {
+    margin-top: 130px;
+
+}
+
+.team-box-positions {
+    margin-top: 41px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.team-members {
+    width: 386px;
+    position: relative;
+}
+
+.possition-box {
+    position: absolute;
+    top: 396px;
+    left: 22px;
+    width: 341px;
+    background-color: white
+}
+
+.name {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 100%;
+    color: #37393F;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 4px;
+}
+
+.possition {
+    font-size: 18px;
+    line-height: 135%;
+    font-weight: 400;
+    color: #7D7D7D;
+    text-align: center;
+    margin-bottom: 24px;
+}
