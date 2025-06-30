@@ -160,10 +160,6 @@
     justify-content: center;
     align-items: center;
 }
-.fa-play{
-    color: white;
-    font-size: 30px;
-}
 
 .calendar-box-color {
     background-color: #40DDB6;
@@ -215,6 +211,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+     color: white;
+    font-size: 30px;
 }
 
 .team-box {
